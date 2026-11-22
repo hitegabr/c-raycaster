@@ -1,6 +1,11 @@
 # C-Raycaster
 A simple raycaster written in C.
 
+# Features
+- WASD / Arrow Key Controls
+- Integrated SDL2
+- A "random" number generator
+
 # Screenshots
 ![Screenshot](screenshots/screenshot1.png)
 
